@@ -1,0 +1,43 @@
+.navbar {
+    padding: 10px;
+    background: #5191fd;
+  }
+
+
+
+.navbar-header a {
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: xx-large;
+    font-weight: 900;
+    color: gold;
+  }
+
+
+nav li {
+    display: inline-block;
+    padding: 20px;
+    margin-right: 50px;
+    margin-left: 10px;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 3px;
+  } 
+
+h2 {
+    text-align: center;
+  }
+
+
+
+h3 {
+    text-align: center;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  table {
+    table-layout: center;
+  }
